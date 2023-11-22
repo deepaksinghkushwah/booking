@@ -1,0 +1,32 @@
+General
+----------
+1. Login/register - done
+2. Confirm email on register users - done
+3. Backend panel for admin users - done
+4. Users dashboard - done
+5. Add recaptcha V3 on login/registration - done
+
+
+As Visitor
+-----------
+1. Book appointment from users list and available slots on particular date - done
+2. Pay for booking slot - done
+3. View orders history for booking - done
+
+
+As Client (Booking Role)
+-----------------------
+1. Setup their account on site like booking start/end time, booking dates, per slot price - done
+2. Setup their availability - done
+3. See all bookings related to them - done
+4. Cancel Booking - done
+
+Booking
+----------
+1. Show visitors booking list - done
+2. Show clients booking list - done
+3. Cancel booking from client or visitor end
+4. Refund payment - done
+5. Site commission in payment/refund
+6. SMS API integration
+7. Razorpay payment gateway integration - done
