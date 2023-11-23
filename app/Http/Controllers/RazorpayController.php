@@ -37,7 +37,7 @@ class RazorpayController extends Controller {
 
 
             $orderData = [
-                'receipt' => $booking->id,
+                'receipt' => "$booking->id",
                 'amount' => $booking->price_per_slot * 100, // 2000 rupees in paise
                 'currency' => 'INR',
                 'payment_capture' => 1 // auto capture
